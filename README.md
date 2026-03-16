@@ -1,5 +1,6 @@
 # Bai_tap_HDH_Nhung-_Bien-_dich_cheo-_thu_vien_va_ung_d-ng
-
+BT1:
+1. Bật cJSON trong Buildroot và build lại OS tích hợp thư viện cJSON
 ![z7608360069292_67cc2c4bad685a30be88be5115ea2791](https://github.com/user-attachments/assets/e76eb4fa-fd97-4c52-93dc-397acb13fcff)
 
 ![z7606582001854_3b82ac2e8650090edf242bad8ea2c083](https://github.com/user-attachments/assets/538760b8-f598-42e9-9f2d-0dd9ab5e7486)
