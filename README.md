@@ -2,7 +2,7 @@
 BT1:
 1. Bật cJSON trong Buildroot và build lại OS tích hợp thư viện cJSON
 ![z7608360069292_67cc2c4bad685a30be88be5115ea2791](https://github.com/user-attachments/assets/e76eb4fa-fd97-4c52-93dc-397acb13fcff)
-
+2+3
 ![z7606582001854_3b82ac2e8650090edf242bad8ea2c083](https://github.com/user-attachments/assets/538760b8-f598-42e9-9f2d-0dd9ab5e7486)
 
 ![z7606624005396_87815c6fcc2493d111753ff3339e4bab](https://github.com/user-attachments/assets/3138a0ca-d51f-4097-a7ed-13415a5db19d)
